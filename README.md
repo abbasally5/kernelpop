@@ -74,6 +74,8 @@ which makes it useful as a host-side only enumeration tool.
 
 * `CVE-2017-1000379`
 
+* `CVE-2017-1000375`
+
 * `CVE-2017-1000373`
 
 * `CVE-2017-1000372`
